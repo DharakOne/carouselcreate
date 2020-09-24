@@ -1,0 +1,6 @@
+.df {
+    background: greenyellow;
+    animation-fill-mode: both;
+    overflow: hidden;
+    display: inline block;
+}
